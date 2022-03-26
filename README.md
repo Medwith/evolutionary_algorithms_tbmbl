@@ -1,7 +1,7 @@
 # Evolutionary Algorithms: The bare math behind libraries
 This repository contains materials used during the talk, so you can try them out yourself.
 
-__If you're looking for slides - you can find them [here]().__
+## If you're looking for slides - you can find them [here](https://speakerdeck.com/medwith/evolutionary-algorithms).
 
 ## Prerequisits
 Minimal versions provided here were used during development of this example.
